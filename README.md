@@ -1,10 +1,4 @@
-<html lang="fa" dir="rtl">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="سایت رسمی علی گیم فول |">
-<meta name="theme-color" content="#050712">
-<title>علی گیم فول | </title>
+
 
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
