@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
 <meta charset="UTF-8">
@@ -247,6 +248,7 @@ Ali Game Full<br>
 </section>
 
 <footer>
+<strong>Ali Game Full</strong> © 2026
 </footer>
 
 </body>
