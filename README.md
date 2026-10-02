@@ -248,7 +248,6 @@ Ali Game Full<br>
 </section>
 
 <footer>
-<strong>Ali Game Full</strong> © 2026
 </footer>
 
 </body>
