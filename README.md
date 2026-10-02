@@ -1,26 +1,4 @@
 
-*{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
-body{
-font-family:Tahoma,"Segoe UI",sans-serif;color:#fff;background:#050712;
-min-height:100vh;overflow-x:hidden
-}
-body:before{
-content:"";position:fixed;inset:0;z-index:-2;
-background:
-radial-gradient(circle at 20% 20%,rgba(0,255,255,.12),transparent 30%),
-radial-gradient(circle at 80% 30%,rgba(255,0,170,.12),transparent 30%),
-radial-gradient(circle at 50% 90%,rgba(80,0,255,.12),transparent 35%)
-}
-body:after{
-content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
-background:
-linear-gradient(rgba(255,255,255,.02) 1px,transparent 1px),
-linear-gradient(90deg,rgba(255,255,255,.02) 1px,transparent 1px);
-background-size:45px 45px;
-mask-image:linear-gradient(to bottom,#000,transparent)
-}
-
 /* منو */
 nav{
 position:fixed;top:0;left:0;right:0;z-index:100;
